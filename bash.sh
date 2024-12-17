@@ -15,7 +15,7 @@ NC='\033[0m'
 displayHeader() {
     clear
     echo -e "${RED}\n╔═════════════════════════════════╗"
-    echo -e "║       T E A M  S R S            ║"
+    echo -e "║       T E A M  RAM&NG            ║"
     echo -e "║  Ethical Hacker & Developer     ║"
     echo -e "╚═════════════════════════════════╝${NC}"
 }
@@ -24,9 +24,9 @@ displaySocialLinks() {
     echo -e "${CYAN}═══════════════════════════════════════════${NC}"
     echo -e "${CYAN}Follow Us On:${NC}" 
     echo -e "═══════════════════════════════════════════"
-    echo -e " • ${GREEN}GitHub:${NC} ${CYAN}https://github.com/enzosrs${NC}"
-    echo -e " • ${MAGENTA}Telegram:${NC} ${CYAN}https://t.me/enzosrs${NC}"
-    echo -e " • ${PINK}Channel:${NC} ${CYAN}https://t.me/+AN7bEQ4v8kkwOTI1${NC}"
+    echo -e " • ${GREEN}GitHub:${NC} ${CYAN}https://github.com/NG${NC}"
+    echo -e " • ${MAGENTA}Telegram:${NC} ${CYAN}https://t.me/NGYT777G${NC}"
+    echo -e " • ${PINK}Channel:${NC} ${CYAN}https://t.me/RAMU128${NC}"
     echo -e "${CYAN}═══════════════════════════════════════════${NC}"
 }
 
@@ -172,7 +172,7 @@ showExitBanner() {
     echo "║     Thank you for using this script!           ║"
     echo "║     We hope it was helpful and enjoyable.      ║"
     echo "║                                                ║"
-    echo "║             Made by - @enzosrs                 ║"
+    echo "║             Made by - @GOAT_NG                 ║"
     echo "║     Feel free to reach out for more updates!   ║"
     echo "╚════════════════════════════════════════════════╗"
     echo -e "${NC}"
